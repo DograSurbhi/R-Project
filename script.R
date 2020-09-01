@@ -1,0 +1,1 @@
+data <- read.csv("C:/Users/dogra/Downloads/data.csv")
